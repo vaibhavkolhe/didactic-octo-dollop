@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'djongo',
     'corsheaders',
-    # Add your app here (e.g., 'octofit_app'), will add models soon
+    'octofit_tracker.api',
 ]
 
 MIDDLEWARE = [
